@@ -1,0 +1,5 @@
+C:/Projects/AR/ARIndoorNavigation-phase2/ARIndoorNavigation-phase2/ARIndoorNavigation/.utmp/RelWithDebInfo/1n563a40/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Projects/AR/ARIndoorNavigation-phase2/ARIndoorNavigation-phase2/ARIndoorNavigation/.utmp/RelWithDebInfo/1n563a40/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Projects/AR/ARIndoorNavigation-phase2/ARIndoorNavigation-phase2/ARIndoorNavigation/.utmp/RelWithDebInfo/1n563a40/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Projects/AR/ARIndoorNavigation-phase2/ARIndoorNavigation-phase2/ARIndoorNavigation/.utmp/RelWithDebInfo/1n563a40/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Projects/AR/ARIndoorNavigation-phase2/ARIndoorNavigation-phase2/ARIndoorNavigation/.utmp/RelWithDebInfo/1n563a40/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

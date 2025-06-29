@@ -1,0 +1,1754 @@
+{
+	"TargetList": [
+		{
+			"Name": "Office 0.0",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 14.744,
+				"y": 0.00,
+				"z": -5.449
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Basement Main Stairs",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 16.217,
+				"y": 0.00,
+				"z": -5.449
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Class 5",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 11.622,
+				"y": 0.00,
+				"z": -5.449
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse Manager",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 2.849,
+				"y": 0.00,
+				"z": -7.302
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Class 6",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 9.18,
+				"y": 0.00,
+				"z": -4.285
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse 0.0",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 5.317,
+				"y": 0.00,
+				"z": -4.285
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse 0.1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 3.865,
+				"y": 0.00,
+				"z": -4.285
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse 0.2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 1.341,
+				"y": 0.00,
+				"z": -4.321
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Basement Main Stairs(Extension Building)",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 32.243,
+				"y": 0.00,
+				"z": -3.224
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Computer Systems Lab",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 32.895,
+				"y": 0.00,
+				"z": -3.224
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse 0.3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 45.816,
+				"y": 0.00,
+				"z": -3.885
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Electronic Lap",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 47.322,
+				"y": 0.00,
+				"z": -3.479
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Warehouse 0.4",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 45.605,
+				"y": 0.00,
+				"z": 0.326
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Maintenance 0.0",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 44.864,
+				"y": 0.00,
+				"z": -0.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Maintenance 0.1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 39.563,
+				"y": 0.00,
+				"z": -1.877
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 0.1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 38.06,
+				"y": 0.00,
+				"z": -1.877
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Civil Defense",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 33.716,
+				"y": 0.00,
+				"z": -1.877
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "College Council Hall",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -1.463,
+				"y": 0.00,
+				"z": -10.023
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Back Doors 1.1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -5.312,
+				"y": 0.00,
+				"z": -5.106
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "University Automation Project",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -2.829,
+				"y": 0.00,
+				"z": -2.036
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Purchasing Department",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -0.985,
+				"y": 0.00,
+				"z": 0.077
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Data Center",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 0.13,
+				"y": 0.00,
+				"z": 1.177
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 1.2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 0.13,
+				"y": 0.00,
+				"z": 2.118
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Back Stairs 1.1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -1.45,
+				"y": 0.00,
+				"z": 5.359
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Back stairs 1.0",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 17.018,
+				"y": 0.00,
+				"z": 4.652
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Consulting Center Accounts",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 15.014,
+				"y": 0.00,
+				"z": 3.211
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 6",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 17.03,
+				"y": 0.00,
+				"z": 1.916
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Electricity",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 18.417,
+				"y": 0.00,
+				"z": -0.927
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Head laboratories",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 18.417,
+				"y": 0.00,
+				"z": -2.396
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab B",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 16.74,
+				"y": 0.00,
+				"z": -10.414
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Maintenance 1.0",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 19.96,
+				"y": 0.00,
+				"z": -7.661
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Salaries",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 25.31,
+				"y": 0.00,
+				"z": -10.41
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 7",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 35.855,
+				"y": 0.00,
+				"z": -10.41
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Ahmed Ezzat office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 35.61,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Amr Mahmoud office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.604,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Mahmoud Fayez Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.604,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Hafez Selim Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.604,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Mahmoud Mabrouk Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.604,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Mahmoud Mounir Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.604,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Sally Saad Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 30.402,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Dalia Shoman Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 30.402,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr.Doaa Ezzat Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 30.402,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Networks",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 26.37,
+				"y": 0.00,
+				"z": -8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Main Doors",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 40.55,
+				"y": 0.00,
+				"z": -15.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Main Stairs",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 40.348,
+				"y": 0.00,
+				"z": -7.552
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 1.0",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 44.391,
+				"y": 0.00,
+				"z": -14.94
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 1.1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 44.391,
+				"y": 0.00,
+				"z": -12.674
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Head of Security Office",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 46.236,
+				"y": 0.00,
+				"z": -6.058
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 1.0",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 46.236,
+				"y": 0.00,
+				"z": -3.756
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 1.1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 46.236,
+				"y": 0.00,
+				"z": -2.504
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Back Stairs 1.2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 46.236,
+				"y": 0.00,
+				"z": 1.487
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Back Doors 1.0",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 16.775,
+				"y": 0.00,
+				"z": 7.97
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Extension First Floor Stairs",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -12.95,
+				"y": 0.00,
+				"z": -2.115
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 2.0",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -10.382,
+				"y": 0.00,
+				"z": -2.115
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Class 2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -4.1174,
+				"y": 0.00,
+				"z": -2.115
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.0",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -2.5509,
+				"y": 0.00,
+				"z": -0.2763
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Class 3",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 1.969,
+				"y": 0.00,
+				"z": -1.5546
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.1",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -0.5563,
+				"y": 0.00,
+				"z": -3.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -2.0177,
+				"y": 0.00,
+				"z": -3.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Class 1",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -5.9674,
+				"y": 0.00,
+				"z": -3.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Main First Floor Back Stairs",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 13.845,
+				"y": 0.00,
+				"z": -9.0572
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 2.1",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 13.845,
+				"y": 0.00,
+				"z": -6.8114
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 2.2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 13.845,
+				"y": 0.00,
+				"z": -5.7104
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.3",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 13.845,
+				"y": 0.00,
+				"z": -0.4439
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.4",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 15.265,
+				"y": 0.00,
+				"z": 2.625
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Seminar Hall",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 24.2188,
+				"y": 0.00,
+				"z": 2.625
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Security Office",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 34.5325,
+				"y": 0.00,
+				"z": 2.625
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Meeting Hall",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 42.6253,
+				"y": 0.00,
+				"z": 2.625
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.5",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 42.97,
+				"y": 0.00,
+				"z": 0.091
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.6",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 42.97,
+				"y": 0.00,
+				"z": -1.2003
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Vice Dean of the College",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 42.97,
+				"y": 0.00,
+				"z": -11.2106
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 42.97,
+				"y": 0.00,
+				"z": -12.0243
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.7",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 41.7201,
+				"y": 0.00,
+				"z": -9.5444
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 2.3",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 41.7201,
+				"y": 0.00,
+				"z": -6.3721
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.8",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 41.7201,
+				"y": 0.00,
+				"z": -4.9785
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.9",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 40.2415,
+				"y": 0.00,
+				"z": 0.33
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.10",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 33.364,
+				"y": 0.00,
+				"z": 1.275
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.11",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 29.3682,
+				"y": 0.00,
+				"z": 1.275
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.12",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 28.1883,
+				"y": 0.00,
+				"z": 1.275
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 2.13",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 24.1945,
+				"y": 0.00,
+				"z": 1.275
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "First Floor Main Stairs",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 19.4027,
+				"y": 0.00,
+				"z": -0.1722
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Extension Second Floor Stairs",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 7.211,
+				"y": 0.00,
+				"z": 4.189
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 3.0",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 7.211,
+				"y": 0.00,
+				"z": 1.673
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.0",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 7.211,
+				"y": 0.00,
+				"z": -1.041
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.1",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 7.211,
+				"y": 0.00,
+				"z": -2.487
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 3",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 7.16,
+				"y": 0.00,
+				"z": -10.639
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab 2",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 5.808,
+				"y": 0.00,
+				"z": -8.995
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.2",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 3.568,
+				"y": 0.00,
+				"z": 1.783
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.3",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 3.545,
+				"y": 0.00,
+				"z": 2.758
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CIS",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 4.943,
+				"y": 0.00,
+				"z": 3.763
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Said Hall",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 9.867,
+				"y": 0.00,
+				"z": -10.64
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Second Floor Back Stairs",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 54.68,
+				"y": 0.00,
+				"z": 0.886
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 3.1",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 54.68,
+				"y": 0.00,
+				"z": -3.084
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 3.2",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 54.68,
+				"y": 0.00,
+				"z": -4.344
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.4",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 54.68,
+				"y": 0.00,
+				"z": -7.542
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Head Of Department",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 53.006,
+				"y": 0.00,
+				"z": -10.667
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Scientific Calculations Lab",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 47.504,
+				"y": 0.00,
+				"z": -10.667
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Information Systems Lab",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 43.554,
+				"y": 0.00,
+				"z": -10.667
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.5",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 33.866,
+				"y": 0.00,
+				"z": -10.667
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Computer Lab 3",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 25.631,
+				"y": 0.00,
+				"z": -10.667
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Robotics Lab",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 25.817,
+				"y": 0.00,
+				"z": 3.369
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Second Floor Stairs",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 25.817,
+				"y": 0.00,
+				"z": 4.066
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 270.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.6",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 27.231,
+				"y": 0.00,
+				"z": 1.656
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.7",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 27.231,
+				"y": 0.00,
+				"z": -1.536
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.8",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 27.231,
+				"y": 0.00,
+				"z": -2.927
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.9",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 28.84,
+				"y": 0.00,
+				"z": -8.213
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.10",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 35.126,
+				"y": 0.00,
+				"z": -9.283
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.11",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 39.108,
+				"y": 0.00,
+				"z": -9.283
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.12",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 40.547,
+				"y": 0.00,
+				"z": -9.283
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 3.13",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 44.544,
+				"y": 0.00,
+				"z": -9.283
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Second Floor Main Stairs",
+			"FloorNumber": 3,
+			"Position": {
+				"x": 49.178,
+				"y": 0.00,
+				"z": -7.716
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Third Floor Back Stairs",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 48.61,
+				"y": 0.00,
+				"z": 2.872
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 4.0",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 48.639,
+				"y": 0.00,
+				"z": -0.9665
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bathroom 4.1",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 48.639,
+				"y": 0.00,
+				"z": -2.2415
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.0",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 48.639,
+				"y": 0.00,
+				"z": -4.8608
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Head Of Department",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 46.9397,
+				"y": 0.00,
+				"z": -8.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Software Engineer lab 2",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 41.0676,
+				"y": 0.00,
+				"z": -8.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Software Engineer lab 1",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 37.5132,
+				"y": 0.00,
+				"z": -8.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.1",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 27.8045,
+				"y": 0.00,
+				"z": -8.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Fahmy Hall",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 25.0588,
+				"y": 0.00,
+				"z": -7.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.2",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 29.0751,
+				"y": 0.00,
+				"z": -7.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.3",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 33.0128,
+				"y": 0.00,
+				"z": -7.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.4",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 34.3861,
+				"y": 0.00,
+				"z": -7.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office 4.5",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 38.3761,
+				"y": 0.00,
+				"z": -7.143
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Third Floor Stairs",
+			"FloorNumber": 4,
+			"Position": {
+				"x": 43.0467,
+				"y": 0.00,
+				"z": -5.62
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
